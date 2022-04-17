@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<configuration>
+    <appSettings>
+        <add key="Адрес сервера" value="http://readyshare.routerlogin.net/shares/U/test/ftp/" />
+        <add key="Папка для справочников" value="C:\DBF" />
+        <add key="Папка для сохранения всех файлов" value="c:\UCBApps\All" />
+        <add key="Интервал синхронизации" value="1" />
+		<add key="Путь к архиватору 7-ZIP" value="c:\Program Files\7-Zip\7z.exe" />
+    </appSettings>
+    <startup> 
+        <supportedRuntime version="v4.0" sku=".NETFramework,Version=v4.8" />
+    </startup>
+</configuration>

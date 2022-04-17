@@ -1,0 +1,10 @@
+C:\Users\Zal\source\repos\FTPDownloadService\FTPDownloadService\bin\Debug\FTPDownloadService.exe.config
+C:\Users\Zal\source\repos\FTPDownloadService\FTPDownloadService\bin\Debug\FTPDownloadService.exe
+C:\Users\Zal\source\repos\FTPDownloadService\FTPDownloadService\bin\Debug\FTPDownloadService.pdb
+C:\Users\Zal\source\repos\FTPDownloadService\FTPDownloadService\obj\Debug\FTPDownloadService.csproj.AssemblyReference.cache
+C:\Users\Zal\source\repos\FTPDownloadService\FTPDownloadService\obj\Debug\FTPDownloadService.csproj.SuggestedBindingRedirects.cache
+C:\Users\Zal\source\repos\FTPDownloadService\FTPDownloadService\obj\Debug\FTPDownloadService.ProjectInstaller.resources
+C:\Users\Zal\source\repos\FTPDownloadService\FTPDownloadService\obj\Debug\FTPDownloadService.csproj.GenerateResource.cache
+C:\Users\Zal\source\repos\FTPDownloadService\FTPDownloadService\obj\Debug\FTPDownloadService.csproj.CoreCompileInputs.cache
+C:\Users\Zal\source\repos\FTPDownloadService\FTPDownloadService\obj\Debug\FTPDownloadService.exe
+C:\Users\Zal\source\repos\FTPDownloadService\FTPDownloadService\obj\Debug\FTPDownloadService.pdb

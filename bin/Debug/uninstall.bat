@@ -1,0 +1,1 @@
+FTPDownloadService.exe --uninstall
